@@ -1,6 +1,8 @@
 # text-gen-cm2
 Generate save codes for text with text blocks in Circuit Maker 2
 
+**DISCLAIMER:** This tool isn't a virus. 13 antiviruses detect it as Trojan.Cerbu because it creates a file called "output.txt", which can be one of the steps of Trojan.Cerbu. We will eventually fix this, don't worry.
+
 1) open cm2
 
 ![aswgrjio0](assets/openedCM2.png)
@@ -38,6 +40,5 @@ Generate save codes for text with text blocks in Circuit Maker 2
 ![stampedbuild](assets/buildStampedDown.png)
 
 9) rotate the text to the right direction if you need to (no image)
+
 10) ok so basically, you're done.
-
-
