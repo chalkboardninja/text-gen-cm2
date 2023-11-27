@@ -11,7 +11,7 @@ Generate save codes for text with text blocks in Circuit Maker 2
 
 ![asdasd](assets/openedGenText.png)
 
-3) type anything you want in the "text to say" prompt (must be uppercase)
+3) type anything you want in the "text to say" prompt
 
 ![asdag](assets/typedSomethingGenText.png)
 
